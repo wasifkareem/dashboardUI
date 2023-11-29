@@ -1,0 +1,33 @@
+{
+  "version": "1.5.0",
+  "children": [],
+  "resources": {
+    "meta": {
+      "ux": {
+        "colorSwatches": [],
+        "documentLibrary": {
+          "version": 5,
+          "isStickerSheet": false,
+          "hashedMetadata": { "publishedDocLibId": null },
+          "elements": [],
+          "groupData": { "groups": [] }
+        },
+        "gridDefaults": { "defaultGrid": null, "layoutOverrides": null },
+        "symbols": [],
+        "symbolsMetadata": { "usingNestedSymbolSyncing": true }
+      }
+    },
+    "gradients": {},
+    "clipPaths": {}
+  },
+  "artboards": {
+    "35641988-34be-44d6-b223-09f4a31336ad": {
+      "width": 1280,
+      "height": 1070,
+      "name": "Web 1280 – 2",
+      "x": 0,
+      "y": -135,
+      "viewportHeight": 1070
+    }
+  }
+}
