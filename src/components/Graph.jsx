@@ -68,7 +68,7 @@ const Graph = () => {
 
   return (
     <div className=" h-[60vh] relative">
-      <div className=" hidden lg:block absolute right-32 bottom-36 text-[#6585ec]">
+      <div className=" hidden lg:block absolute right-32 bottom-48 text-[#6585ec]">
         Our Predictions
       </div>
       <Chart
