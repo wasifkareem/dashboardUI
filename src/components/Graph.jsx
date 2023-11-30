@@ -37,7 +37,7 @@ const Graph = () => {
       yaxis: {
         labels: {
           formatter: (val) => {
-            return "$" + val + " M";
+            return;
           },
         },
       },

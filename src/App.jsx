@@ -23,6 +23,12 @@ function App() {
   return (
     <div className=" pb-20">
       <Navbar />
+      <div className=" flex flex-col gap-4 ml-3 mt-10 mb-2 sm:ml-10 ">
+        <h1 className=" font-semibold text-3xl text-gray-800">Portfolio</h1>
+        <button className=" bg-[#c5cff383]  p-1 px-5 rounded-2xl w-fit  text-[#8096f1] font-semibold">
+          Settings
+        </button>
+      </div>
       <Graph />
       <div className=" flex flex-col sm:flex-row sm:ml-14 sm:mx-4">
         <div className=" flex flex-col gap-10 mt-8 sm:flex-row sm:w-[70vw]">
