@@ -35,9 +35,10 @@ const Graph = () => {
         },
       },
       yaxis: {
+        show: false,
         labels: {
           formatter: (val) => {
-            return;
+            return "$" + val + " M";
           },
         },
       },
